@@ -1,4 +1,4 @@
-function draw_smich_chart
+function draw_smith_chart
     % Draw outer circle
     t = linspace(0, 2*pi, 100);
     x = cos(t);
